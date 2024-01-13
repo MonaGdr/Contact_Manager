@@ -19,5 +19,5 @@ This Android application demonstrates the use of Room database for retrieving co
 
 ## Usage
 
-After launching the app, you will see a list of your contacts. You can add a new contact by clicking on the '+' button. To update or delete a contact, click on the contact from the list.
+After launching the app, you will see a list of your contacts. You can add a new contact by clicking on 'add new contect'. To update or delete a contact, click on the contact from the list.
 
